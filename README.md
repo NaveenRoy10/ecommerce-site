@@ -52,7 +52,7 @@ This is a fully responsive eCommerce website designed for a fashion store named 
 - User authentication using a real backend system
 
 ## Author
-M.S.Naveen Roy - 
+M.S.Naveen Roy - https://github.com/NaveenRoy10
 
 ## License
 This project is open-source and available under the MIT License.
